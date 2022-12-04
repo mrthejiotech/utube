@@ -16,32 +16,32 @@
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "14114247"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "6694b5866a69e32775b2f4fad811273e"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "721989657034-mljls2gjsnt5vfe97nvpfdutau3t1b2o.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "Mr Blue Editor"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "blie,editor",
       "required":false
     },
     "VIDEO_DESCRIPTION": {
       "description": "Any default description to be aded to the video.",
-      "value": "",
+      "value": "uploaded by YouTube Uploader bed",
       "required":false
     },
     "VIDEO_CATEGORY": {
@@ -51,7 +51,7 @@
     },
     "VIDEO_TITLE_PREFIX": {
       "description": "Any prefix to be added to the video's title.",
-      "value": "",
+      "value": "bed bot",
       "required":false
     },
     "VIDEO_TITLE_SUFFIX": {
@@ -61,7 +61,7 @@
     },
     "UPLOAD_MODE": {
       "description": "The video's privacy status. Valid values for this property are: private, public, unlisted",
-      "value": "private",
+      "value": "public",
       "required":false
     },
     "DEBUG": {

@@ -7,7 +7,7 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "5971135380:AAHWLSmNBBmmaQK_FDrr29XBl0EXi2gDlYo"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
